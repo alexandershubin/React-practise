@@ -1,0 +1,10 @@
+.App {
+  padding: 10px;
+  text-align: center;
+}
+
+button {
+  display: block;
+  width: 100px;
+  margin: 10px auto;
+}
